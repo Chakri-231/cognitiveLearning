@@ -1,0 +1,181 @@
+date,student_id,student_name,class_grade,section,subject,exam_score,quiz_avg,assignments_completed_pct,attendance_pct,quizzes_taken,last_assessment_days_ago,study_hours_per_week,attention_score,participation_score,collaboration_score,conduct_incidents,extracurricular_sports_hours,extracurricular_arts_hours,extracurricular_clubs_hours,teacher_observation
+2025-11-01,S001,Aarav Sharma,10,A,Math,84.5,69.8,66.8,94.7,5,4,6.5,3,4,4,1,0.1,2.0,0.7,Active participant
+2025-11-01,S001,Aarav Sharma,10,A,Science,60.3,88.5,69.0,79.0,6,6,6.5,3,4,4,1,0.1,2.0,0.7,Active participant
+2025-11-01,S001,Aarav Sharma,10,A,English,89.5,81.7,96.4,87.5,3,7,6.5,3,4,4,1,0.1,2.0,0.7,Active participant; Consistently high performer
+2025-11-01,S001,Aarav Sharma,10,A,Social Studies,65.9,90.3,88.5,87.0,6,9,6.5,3,4,4,1,0.1,2.0,0.7,Active participant
+2025-11-01,S001,Aarav Sharma,10,A,Computer Science,69.8,63.0,80.5,70.9,7,32,6.5,3,4,4,1,0.1,2.0,0.7,Active participant
+2025-11-01,S001,Aarav Sharma,10,A,Arts,75.1,80.5,75.8,82.8,5,12,6.5,3,4,4,1,0.1,2.0,0.7,Active participant
+2025-11-01,S002,Vivaan Reddy,8,C,Math,46.5,49.8,69.4,88.3,5,14,6.7,2,2,2,0,0.4,0.9,0.1,Struggling with core concepts
+2025-11-01,S002,Vivaan Reddy,8,C,Science,68.4,80.1,93.2,92.6,5,14,6.7,2,2,2,0,0.4,0.9,0.1,On track
+2025-11-01,S002,Vivaan Reddy,8,C,English,71.6,78.3,80.9,80.8,6,30,6.7,2,2,2,0,0.4,0.9,0.1,On track
+2025-11-01,S002,Vivaan Reddy,8,C,Social Studies,78.5,75.7,89.7,79.7,4,14,6.7,2,2,2,0,0.4,0.9,0.1,On track
+2025-11-01,S002,Vivaan Reddy,8,C,Computer Science,71.4,61.8,78.4,76.1,5,6,6.7,2,2,2,0,0.4,0.9,0.1,On track
+2025-11-01,S002,Vivaan Reddy,8,C,Arts,62.4,62.1,73.3,94.1,6,17,6.7,2,2,2,0,0.4,0.9,0.1,On track
+2025-11-01,S003,Aditya Iyer,9,A,Math,71.4,41.8,69.2,71.0,6,15,1.3,1,4,3,3,1.1,0.0,0.7,Active participant; Needs behavior coaching
+2025-11-01,S003,Aditya Iyer,9,A,Science,42.9,59.3,69.5,82.2,6,1,1.3,1,4,3,3,1.1,0.0,0.7,Active participant; Needs behavior coaching; Struggling with core concepts
+2025-11-01,S003,Aditya Iyer,9,A,English,53.3,53.8,75.3,94.5,7,3,1.3,1,4,3,3,1.1,0.0,0.7,Active participant; Needs behavior coaching
+2025-11-01,S003,Aditya Iyer,9,A,Social Studies,61.0,68.7,81.1,90.1,6,7,1.3,1,4,3,3,1.1,0.0,0.7,Active participant; Needs behavior coaching
+2025-11-01,S003,Aditya Iyer,9,A,Computer Science,53.5,46.7,85.1,76.1,6,0,1.3,1,4,3,3,1.1,0.0,0.7,Active participant; Needs behavior coaching
+2025-11-01,S003,Aditya Iyer,9,A,Arts,58.1,55.6,74.8,88.5,3,4,1.3,1,4,3,3,1.1,0.0,0.7,Active participant; Needs behavior coaching
+2025-11-01,S004,Vihaan Nair,8,A,Math,74.5,70.7,87.1,98.2,5,12,4.5,3,3,2,2,0.8,0.0,1.9,On track
+2025-11-01,S004,Vihaan Nair,8,A,Science,70.3,46.7,76.9,82.1,5,17,4.5,3,3,2,2,0.8,0.0,1.9,On track
+2025-11-01,S004,Vihaan Nair,8,A,English,60.8,67.3,61.7,93.1,5,1,4.5,3,3,2,2,0.8,0.0,1.9,On track
+2025-11-01,S004,Vihaan Nair,8,A,Social Studies,58.3,59.4,74.5,85.7,3,1,4.5,3,3,2,2,0.8,0.0,1.9,On track
+2025-11-01,S004,Vihaan Nair,8,A,Computer Science,75.0,60.7,62.3,74.2,9,1,4.5,3,3,2,2,0.8,0.0,1.9,On track
+2025-11-01,S004,Vihaan Nair,8,A,Arts,69.2,63.0,79.3,95.6,8,8,4.5,3,3,2,2,0.8,0.0,1.9,On track
+2025-11-01,S005,Arjun Gupta,10,A,Math,93.3,68.4,73.6,98.4,7,1,8.0,3,3,1,0,4.2,1.5,2.2,Consistently high performer
+2025-11-01,S005,Arjun Gupta,10,A,Science,65.8,92.1,85.3,86.4,2,15,8.0,3,3,1,0,4.2,1.5,2.2,On track
+2025-11-01,S005,Arjun Gupta,10,A,English,75.8,96.5,87.1,87.0,6,7,8.0,3,3,1,0,4.2,1.5,2.2,On track
+2025-11-01,S005,Arjun Gupta,10,A,Social Studies,91.3,81.9,72.3,86.9,7,4,8.0,3,3,1,0,4.2,1.5,2.2,Consistently high performer
+2025-11-01,S005,Arjun Gupta,10,A,Computer Science,84.1,74.6,78.0,91.5,4,2,8.0,3,3,1,0,4.2,1.5,2.2,On track
+2025-11-01,S005,Arjun Gupta,10,A,Arts,84.6,72.7,82.3,69.2,6,16,8.0,3,3,1,0,4.2,1.5,2.2,Irregular attendance
+2025-11-01,S006,Sai Kulkarni,10,C,Math,60.4,68.2,87.0,83.9,8,2,5.4,4,2,2,2,0.5,0.3,0.6,Focused in class
+2025-11-01,S006,Sai Kulkarni,10,C,Science,64.0,69.1,74.6,83.2,2,14,5.4,4,2,2,2,0.5,0.3,0.6,Focused in class
+2025-11-01,S006,Sai Kulkarni,10,C,English,49.8,58.0,79.6,94.6,4,8,5.4,4,2,2,2,0.5,0.3,0.6,Focused in class; Struggling with core concepts
+2025-11-01,S006,Sai Kulkarni,10,C,Social Studies,79.3,86.6,70.3,85.3,5,4,5.4,4,2,2,2,0.5,0.3,0.6,Focused in class
+2025-11-01,S006,Sai Kulkarni,10,C,Computer Science,87.3,71.5,81.6,97.5,4,9,5.4,4,2,2,2,0.5,0.3,0.6,Focused in class; Consistently high performer
+2025-11-01,S006,Sai Kulkarni,10,C,Arts,80.6,61.6,94.8,80.3,3,8,5.4,4,2,2,2,0.5,0.3,0.6,Focused in class
+2025-11-01,S007,Krishna Menon,10,A,Math,85.9,58.7,75.4,82.1,4,2,8.5,3,3,4,3,1.8,0.1,0.4,Needs behavior coaching; Consistently high performer
+2025-11-01,S007,Krishna Menon,10,A,Science,66.4,80.1,83.7,85.3,7,3,8.5,3,3,4,3,1.8,0.1,0.4,Needs behavior coaching
+2025-11-01,S007,Krishna Menon,10,A,English,64.4,73.8,64.6,92.0,7,15,8.5,3,3,4,3,1.8,0.1,0.4,Needs behavior coaching
+2025-11-01,S007,Krishna Menon,10,A,Social Studies,58.9,77.3,76.7,64.0,5,9,8.5,3,3,4,3,1.8,0.1,0.4,Needs behavior coaching; Irregular attendance
+2025-11-01,S007,Krishna Menon,10,A,Computer Science,84.2,70.9,74.8,76.3,6,4,8.5,3,3,4,3,1.8,0.1,0.4,Needs behavior coaching
+2025-11-01,S007,Krishna Menon,10,A,Arts,69.8,79.7,74.1,92.1,11,5,8.5,3,3,4,3,1.8,0.1,0.4,Needs behavior coaching
+2025-11-01,S008,Ishan Das,10,B,Math,43.1,46.1,74.8,75.6,6,9,1.2,3,2,3,4,1.2,2.2,0.5,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S008,Ishan Das,10,B,Science,66.0,54.4,70.8,85.2,5,17,1.2,3,2,3,4,1.2,2.2,0.5,Needs behavior coaching
+2025-11-01,S008,Ishan Das,10,B,English,19.3,40.5,86.0,77.9,5,6,1.2,3,2,3,4,1.2,2.2,0.5,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S008,Ishan Das,10,B,Social Studies,14.6,51.2,58.2,73.7,6,23,1.2,3,2,3,4,1.2,2.2,0.5,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S008,Ishan Das,10,B,Computer Science,52.6,53.8,59.2,86.6,8,1,1.2,3,2,3,4,1.2,2.2,0.5,Needs behavior coaching
+2025-11-01,S008,Ishan Das,10,B,Arts,30.1,52.9,69.1,81.1,7,4,1.2,3,2,3,4,1.2,2.2,0.5,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S009,Rohan Saxena,8,A,Math,75.9,88.8,86.2,82.3,7,4,9.9,3,3,4,2,0.9,0.6,0.0,On track
+2025-11-01,S009,Rohan Saxena,8,A,Science,100.0,83.3,91.1,81.7,8,10,9.9,3,3,4,2,0.9,0.6,0.0,Consistently high performer
+2025-11-01,S009,Rohan Saxena,8,A,English,100.0,81.4,63.7,76.1,9,6,9.9,3,3,4,2,0.9,0.6,0.0,Consistently high performer
+2025-11-01,S009,Rohan Saxena,8,A,Social Studies,88.1,73.9,99.3,86.5,7,26,9.9,3,3,4,2,0.9,0.6,0.0,Consistently high performer
+2025-11-01,S009,Rohan Saxena,8,A,Computer Science,82.6,74.9,97.4,96.8,5,27,9.9,3,3,4,2,0.9,0.6,0.0,On track
+2025-11-01,S009,Rohan Saxena,8,A,Arts,52.3,64.1,75.6,90.3,6,4,9.9,3,3,4,2,0.9,0.6,0.0,On track
+2025-11-01,S010,Karthik Bansal,8,A,Math,35.1,34.5,61.4,81.3,3,13,0.2,3,3,3,3,1.7,0.3,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S010,Karthik Bansal,8,A,Science,54.4,50.5,74.3,79.6,3,5,0.2,3,3,3,3,1.7,0.3,0.1,Needs behavior coaching
+2025-11-01,S010,Karthik Bansal,8,A,English,36.7,44.9,71.6,89.8,4,1,0.2,3,3,3,3,1.7,0.3,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S010,Karthik Bansal,8,A,Social Studies,39.0,46.8,66.5,81.9,7,23,0.2,3,3,3,3,1.7,0.3,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S010,Karthik Bansal,8,A,Computer Science,15.4,59.3,67.2,76.4,6,15,0.2,3,3,3,3,1.7,0.3,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S010,Karthik Bansal,8,A,Arts,41.7,42.4,62.5,70.8,6,2,0.2,3,3,3,3,1.7,0.3,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S011,Ananya Patel,8,C,Math,57.0,62.4,86.1,96.6,9,0,5.4,2,3,3,2,2.7,0.8,1.3,On track
+2025-11-01,S011,Ananya Patel,8,C,Science,55.0,59.3,81.8,81.5,4,3,5.4,2,3,3,2,2.7,0.8,1.3,On track
+2025-11-01,S011,Ananya Patel,8,C,English,45.7,54.9,73.2,86.1,8,11,5.4,2,3,3,2,2.7,0.8,1.3,Struggling with core concepts
+2025-11-01,S011,Ananya Patel,8,C,Social Studies,69.3,57.4,64.4,96.7,4,5,5.4,2,3,3,2,2.7,0.8,1.3,On track
+2025-11-01,S011,Ananya Patel,8,C,Computer Science,60.1,76.4,55.9,96.6,9,3,5.4,2,3,3,2,2.7,0.8,1.3,On track
+2025-11-01,S011,Ananya Patel,8,C,Arts,61.1,66.3,98.3,93.3,7,3,5.4,2,3,3,2,2.7,0.8,1.3,On track
+2025-11-01,S012,Aditi Agarwal,10,A,Math,68.4,53.8,73.4,86.9,4,0,4.8,3,3,3,3,2.4,0.0,0.6,Needs behavior coaching
+2025-11-01,S012,Aditi Agarwal,10,A,Science,64.9,63.1,74.1,89.8,7,0,4.8,3,3,3,3,2.4,0.0,0.6,Needs behavior coaching
+2025-11-01,S012,Aditi Agarwal,10,A,English,56.4,59.8,60.4,92.2,3,7,4.8,3,3,3,3,2.4,0.0,0.6,Needs behavior coaching
+2025-11-01,S012,Aditi Agarwal,10,A,Social Studies,77.8,64.0,63.5,88.7,4,4,4.8,3,3,3,3,2.4,0.0,0.6,Needs behavior coaching
+2025-11-01,S012,Aditi Agarwal,10,A,Computer Science,53.1,77.4,83.7,100.0,6,13,4.8,3,3,3,3,2.4,0.0,0.6,Needs behavior coaching
+2025-11-01,S012,Aditi Agarwal,10,A,Arts,79.0,65.0,61.9,78.8,8,15,4.8,3,3,3,3,2.4,0.0,0.6,Needs behavior coaching
+2025-11-01,S013,Diya Chopra,10,A,Math,61.5,49.8,81.4,95.3,5,16,4.0,2,2,2,3,0.9,1.2,0.4,Needs behavior coaching
+2025-11-01,S013,Diya Chopra,10,A,Science,59.8,64.1,61.1,89.9,6,8,4.0,2,2,2,3,0.9,1.2,0.4,Needs behavior coaching
+2025-11-01,S013,Diya Chopra,10,A,English,47.1,41.3,82.7,89.4,7,3,4.0,2,2,2,3,0.9,1.2,0.4,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S013,Diya Chopra,10,A,Social Studies,52.9,50.9,78.8,81.8,6,35,4.0,2,2,2,3,0.9,1.2,0.4,Needs behavior coaching
+2025-11-01,S013,Diya Chopra,10,A,Computer Science,55.0,42.3,83.7,81.0,5,0,4.0,2,2,2,3,0.9,1.2,0.4,Needs behavior coaching
+2025-11-01,S013,Diya Chopra,10,A,Arts,54.4,70.6,71.7,91.0,6,4,4.0,2,2,2,3,0.9,1.2,0.4,Needs behavior coaching
+2025-11-01,S014,Isha Khan,10,C,Math,64.7,69.8,82.6,73.1,8,3,5.1,2,2,2,2,0.8,0.1,0.3,On track
+2025-11-01,S014,Isha Khan,10,C,Science,76.8,61.2,74.8,79.5,1,10,5.1,2,2,2,2,0.8,0.1,0.3,On track
+2025-11-01,S014,Isha Khan,10,C,English,50.5,55.8,75.7,80.8,5,4,5.1,2,2,2,2,0.8,0.1,0.3,On track
+2025-11-01,S014,Isha Khan,10,C,Social Studies,71.9,81.9,69.2,75.3,7,30,5.1,2,2,2,2,0.8,0.1,0.3,On track
+2025-11-01,S014,Isha Khan,10,C,Computer Science,82.6,80.3,68.7,90.3,7,47,5.1,2,2,2,2,0.8,0.1,0.3,On track
+2025-11-01,S014,Isha Khan,10,C,Arts,85.3,69.8,74.8,85.5,5,2,5.1,2,2,2,2,0.8,0.1,0.3,Consistently high performer
+2025-11-01,S015,Meera Verma,10,C,Math,54.8,59.2,70.9,79.9,7,17,7.1,3,3,2,3,0.3,1.3,0.4,Needs behavior coaching
+2025-11-01,S015,Meera Verma,10,C,Science,54.2,59.3,70.8,91.9,6,21,7.1,3,3,2,3,0.3,1.3,0.4,Needs behavior coaching
+2025-11-01,S015,Meera Verma,10,C,English,56.0,55.9,85.8,87.1,10,1,7.1,3,3,2,3,0.3,1.3,0.4,Needs behavior coaching
+2025-11-01,S015,Meera Verma,10,C,Social Studies,66.2,61.8,70.8,76.8,6,2,7.1,3,3,2,3,0.3,1.3,0.4,Needs behavior coaching
+2025-11-01,S015,Meera Verma,10,C,Computer Science,60.6,82.8,100.0,93.9,5,17,7.1,3,3,2,3,0.3,1.3,0.4,Needs behavior coaching
+2025-11-01,S015,Meera Verma,10,C,Arts,80.7,82.8,81.6,88.1,7,11,7.1,3,3,2,3,0.3,1.3,0.4,Needs behavior coaching
+2025-11-01,S016,Riya Yadav,9,A,Math,83.7,87.0,99.4,98.6,7,2,10.7,5,3,3,0,0.2,0.0,0.7,Focused in class
+2025-11-01,S016,Riya Yadav,9,A,Science,98.1,96.1,89.8,93.2,7,7,10.7,5,3,3,0,0.2,0.0,0.7,Focused in class; Consistently high performer
+2025-11-01,S016,Riya Yadav,9,A,English,96.7,99.2,92.1,95.2,10,15,10.7,5,3,3,0,0.2,0.0,0.7,Focused in class; Consistently high performer
+2025-11-01,S016,Riya Yadav,9,A,Social Studies,95.9,86.3,97.7,89.6,3,27,10.7,5,3,3,0,0.2,0.0,0.7,Focused in class; Consistently high performer
+2025-11-01,S016,Riya Yadav,9,A,Computer Science,91.4,82.6,87.0,81.0,5,4,10.7,5,3,3,0,0.2,0.0,0.7,Focused in class; Consistently high performer
+2025-11-01,S016,Riya Yadav,9,A,Arts,100.0,85.1,84.3,85.0,2,15,10.7,5,3,3,0,0.2,0.0,0.7,Focused in class; Consistently high performer
+2025-11-01,S017,Saanvi Mishra,9,C,Math,69.5,64.7,78.2,62.8,5,12,6.0,2,2,3,3,3.3,0.1,0.3,Needs behavior coaching; Irregular attendance
+2025-11-01,S017,Saanvi Mishra,9,C,Science,43.8,41.2,72.7,71.2,7,10,6.0,2,2,3,3,3.3,0.1,0.3,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S017,Saanvi Mishra,9,C,English,47.5,55.7,71.4,82.3,7,2,6.0,2,2,3,3,3.3,0.1,0.3,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S017,Saanvi Mishra,9,C,Social Studies,51.5,53.7,78.9,77.6,6,2,6.0,2,2,3,3,3.3,0.1,0.3,Needs behavior coaching
+2025-11-01,S017,Saanvi Mishra,9,C,Computer Science,53.6,63.4,80.2,83.9,9,1,6.0,2,2,3,3,3.3,0.1,0.3,Needs behavior coaching
+2025-11-01,S017,Saanvi Mishra,9,C,Arts,40.3,57.5,77.5,79.9,4,6,6.0,2,2,3,3,3.3,0.1,0.3,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S018,Sneha Ghosh,9,A,Math,72.1,68.8,87.0,78.5,5,4,10.4,3,4,3,3,0.3,0.1,1.8,Active participant; Needs behavior coaching
+2025-11-01,S018,Sneha Ghosh,9,A,Science,79.8,78.2,100.0,78.4,5,3,10.4,3,4,3,3,0.3,0.1,1.8,Active participant; Needs behavior coaching
+2025-11-01,S018,Sneha Ghosh,9,A,English,93.3,79.7,78.5,83.5,4,10,10.4,3,4,3,3,0.3,0.1,1.8,Active participant; Needs behavior coaching; Consistently high performer
+2025-11-01,S018,Sneha Ghosh,9,A,Social Studies,71.9,67.3,75.9,84.2,6,1,10.4,3,4,3,3,0.3,0.1,1.8,Active participant; Needs behavior coaching
+2025-11-01,S018,Sneha Ghosh,9,A,Computer Science,55.6,70.0,72.9,89.1,7,2,10.4,3,4,3,3,0.3,0.1,1.8,Active participant; Needs behavior coaching
+2025-11-01,S018,Sneha Ghosh,9,A,Arts,59.6,75.7,82.5,86.8,7,16,10.4,3,4,3,3,0.3,0.1,1.8,Active participant; Needs behavior coaching
+2025-11-01,S019,Tanvi Pandey,8,C,Math,74.0,68.2,100.0,87.4,5,7,7.1,4,2,2,2,2.6,1.5,0.8,Focused in class
+2025-11-01,S019,Tanvi Pandey,8,C,Science,83.8,91.3,87.2,81.5,8,7,7.1,4,2,2,2,2.6,1.5,0.8,Focused in class
+2025-11-01,S019,Tanvi Pandey,8,C,English,74.1,83.9,87.2,86.7,4,1,7.1,4,2,2,2,2.6,1.5,0.8,Focused in class
+2025-11-01,S019,Tanvi Pandey,8,C,Social Studies,78.4,75.3,62.4,92.8,4,5,7.1,4,2,2,2,2.6,1.5,0.8,Focused in class
+2025-11-01,S019,Tanvi Pandey,8,C,Computer Science,63.6,55.9,91.8,82.1,6,23,7.1,4,2,2,2,2.6,1.5,0.8,Focused in class
+2025-11-01,S019,Tanvi Pandey,8,C,Arts,76.0,67.8,86.4,87.2,3,10,7.1,4,2,2,2,2.6,1.5,0.8,Focused in class
+2025-11-01,S020,Zara Rao,9,B,Math,71.3,78.6,75.4,87.8,5,36,9.1,4,3,2,3,0.3,1.2,0.2,Focused in class; Needs behavior coaching
+2025-11-01,S020,Zara Rao,9,B,Science,66.0,91.5,79.3,85.3,8,7,9.1,4,3,2,3,0.3,1.2,0.2,Focused in class; Needs behavior coaching
+2025-11-01,S020,Zara Rao,9,B,English,73.8,64.0,68.0,76.7,8,15,9.1,4,3,2,3,0.3,1.2,0.2,Focused in class; Needs behavior coaching
+2025-11-01,S020,Zara Rao,9,B,Social Studies,93.5,96.2,78.3,87.7,8,3,9.1,4,3,2,3,0.3,1.2,0.2,Focused in class; Needs behavior coaching; Consistently high performer
+2025-11-01,S020,Zara Rao,9,B,Computer Science,90.9,80.6,77.7,82.9,10,19,9.1,4,3,2,3,0.3,1.2,0.2,Focused in class; Needs behavior coaching; Consistently high performer
+2025-11-01,S020,Zara Rao,9,B,Arts,78.2,84.5,77.6,88.7,5,1,9.1,4,3,2,3,0.3,1.2,0.2,Focused in class; Needs behavior coaching
+2025-11-01,S021,Rahul Pillai,9,A,Math,95.0,89.2,85.4,87.8,2,0,12.1,3,4,3,1,0.1,0.5,0.2,Active participant; Consistently high performer
+2025-11-01,S021,Rahul Pillai,9,A,Science,80.2,100.0,63.6,97.2,12,11,12.1,3,4,3,1,0.1,0.5,0.2,Active participant
+2025-11-01,S021,Rahul Pillai,9,A,English,80.7,91.3,78.4,80.0,10,20,12.1,3,4,3,1,0.1,0.5,0.2,Active participant
+2025-11-01,S021,Rahul Pillai,9,A,Social Studies,100.0,100.0,94.3,100.0,7,8,12.1,3,4,3,1,0.1,0.5,0.2,Active participant; Consistently high performer
+2025-11-01,S021,Rahul Pillai,9,A,Computer Science,90.5,94.8,100.0,79.3,4,1,12.1,3,4,3,1,0.1,0.5,0.2,Active participant; Consistently high performer
+2025-11-01,S021,Rahul Pillai,9,A,Arts,80.5,100.0,90.3,100.0,7,5,12.1,3,4,3,1,0.1,0.5,0.2,Active participant
+2025-11-01,S022,Neha Shetty,8,B,Math,70.3,82.8,80.5,93.2,9,17,7.9,3,4,3,3,0.8,0.2,1.0,Active participant; Needs behavior coaching
+2025-11-01,S022,Neha Shetty,8,B,Science,74.0,78.9,74.7,74.5,9,6,7.9,3,4,3,3,0.8,0.2,1.0,Active participant; Needs behavior coaching
+2025-11-01,S022,Neha Shetty,8,B,English,87.1,79.4,76.6,95.7,11,5,7.9,3,4,3,3,0.8,0.2,1.0,Active participant; Needs behavior coaching; Consistently high performer
+2025-11-01,S022,Neha Shetty,8,B,Social Studies,100.0,92.2,71.9,87.5,3,5,7.9,3,4,3,3,0.8,0.2,1.0,Active participant; Needs behavior coaching; Consistently high performer
+2025-11-01,S022,Neha Shetty,8,B,Computer Science,82.7,77.0,89.5,92.1,8,31,7.9,3,4,3,3,0.8,0.2,1.0,Active participant; Needs behavior coaching
+2025-11-01,S022,Neha Shetty,8,B,Arts,73.1,76.2,83.2,92.1,4,3,7.9,3,4,3,3,0.8,0.2,1.0,Active participant; Needs behavior coaching
+2025-11-01,S023,Pooja Kapoor,8,A,Math,37.3,53.7,84.9,92.9,3,13,3.7,3,2,4,3,4.0,1.9,0.3,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S023,Pooja Kapoor,8,A,Science,54.8,52.2,66.0,80.5,7,7,3.7,3,2,4,3,4.0,1.9,0.3,Needs behavior coaching
+2025-11-01,S023,Pooja Kapoor,8,A,English,59.5,58.1,75.5,85.3,7,16,3.7,3,2,4,3,4.0,1.9,0.3,Needs behavior coaching
+2025-11-01,S023,Pooja Kapoor,8,A,Social Studies,45.9,50.0,87.8,82.9,7,22,3.7,3,2,4,3,4.0,1.9,0.3,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S023,Pooja Kapoor,8,A,Computer Science,50.7,70.6,63.3,95.8,5,15,3.7,3,2,4,3,4.0,1.9,0.3,Needs behavior coaching
+2025-11-01,S023,Pooja Kapoor,8,A,Arts,48.7,40.2,78.1,75.2,4,6,3.7,3,2,4,3,4.0,1.9,0.3,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S024,Aarohi Joshi,9,A,Math,99.5,93.3,82.3,91.4,6,0,8.3,3,3,3,2,1.4,0.8,0.1,Consistently high performer
+2025-11-01,S024,Aarohi Joshi,9,A,Science,100.0,83.8,98.8,90.3,3,7,8.3,3,3,3,2,1.4,0.8,0.1,Consistently high performer
+2025-11-01,S024,Aarohi Joshi,9,A,English,73.2,69.8,89.9,83.7,9,3,8.3,3,3,3,2,1.4,0.8,0.1,On track
+2025-11-01,S024,Aarohi Joshi,9,A,Social Studies,71.8,88.3,76.6,86.6,6,16,8.3,3,3,3,2,1.4,0.8,0.1,On track
+2025-11-01,S024,Aarohi Joshi,9,A,Computer Science,100.0,90.7,64.2,94.8,7,4,8.3,3,3,3,2,1.4,0.8,0.1,Consistently high performer
+2025-11-01,S024,Aarohi Joshi,9,A,Arts,78.1,92.4,85.1,100.0,5,32,8.3,3,3,3,2,1.4,0.8,0.1,On track
+2025-11-01,S025,Pranav Desai,9,B,Math,60.5,82.0,79.1,73.9,4,14,8.2,2,3,4,3,0.5,0.3,1.3,Needs behavior coaching
+2025-11-01,S025,Pranav Desai,9,B,Science,79.7,92.3,81.0,73.9,8,18,8.2,2,3,4,3,0.5,0.3,1.3,Needs behavior coaching
+2025-11-01,S025,Pranav Desai,9,B,English,64.1,64.6,81.6,82.7,6,15,8.2,2,3,4,3,0.5,0.3,1.3,Needs behavior coaching
+2025-11-01,S025,Pranav Desai,9,B,Social Studies,55.0,67.3,81.1,83.3,7,4,8.2,2,3,4,3,0.5,0.3,1.3,Needs behavior coaching
+2025-11-01,S025,Pranav Desai,9,B,Computer Science,76.6,72.9,80.2,100.0,8,48,8.2,2,3,4,3,0.5,0.3,1.3,Needs behavior coaching
+2025-11-01,S025,Pranav Desai,9,B,Arts,68.6,76.1,85.9,94.5,7,4,8.2,2,3,4,3,0.5,0.3,1.3,Needs behavior coaching
+2025-11-01,S026,Dhruv Mehta,10,B,Math,74.1,70.0,81.5,78.7,6,10,6.6,3,3,4,3,1.3,1.2,1.3,Needs behavior coaching
+2025-11-01,S026,Dhruv Mehta,10,B,Science,60.3,58.1,74.7,83.5,7,7,6.6,3,3,4,3,1.3,1.2,1.3,Needs behavior coaching
+2025-11-01,S026,Dhruv Mehta,10,B,English,70.3,62.2,81.8,84.4,7,34,6.6,3,3,4,3,1.3,1.2,1.3,Needs behavior coaching
+2025-11-01,S026,Dhruv Mehta,10,B,Social Studies,98.4,96.9,84.1,88.3,4,2,6.6,3,3,4,3,1.3,1.2,1.3,Needs behavior coaching; Consistently high performer
+2025-11-01,S026,Dhruv Mehta,10,B,Computer Science,71.2,73.5,82.7,97.8,5,41,6.6,3,3,4,3,1.3,1.2,1.3,Needs behavior coaching
+2025-11-01,S026,Dhruv Mehta,10,B,Arts,76.2,76.3,84.2,80.3,5,1,6.6,3,3,4,3,1.3,1.2,1.3,Needs behavior coaching
+2025-11-01,S027,Anika Singh,8,C,Math,62.4,59.2,88.2,93.6,3,7,5.5,3,2,3,2,0.8,0.8,0.3,On track
+2025-11-01,S027,Anika Singh,8,C,Science,72.1,73.4,73.7,92.0,4,5,5.5,3,2,3,2,0.8,0.8,0.3,On track
+2025-11-01,S027,Anika Singh,8,C,English,66.0,56.8,73.3,63.3,7,8,5.5,3,2,3,2,0.8,0.8,0.3,Irregular attendance
+2025-11-01,S027,Anika Singh,8,C,Social Studies,87.9,75.1,66.8,100.0,6,4,5.5,3,2,3,2,0.8,0.8,0.3,Consistently high performer
+2025-11-01,S027,Anika Singh,8,C,Computer Science,61.3,78.0,93.5,71.1,6,22,5.5,3,2,3,2,0.8,0.8,0.3,On track
+2025-11-01,S027,Anika Singh,8,C,Arts,74.0,77.5,77.9,80.8,8,10,5.5,3,2,3,2,0.8,0.8,0.3,On track
+2025-11-01,S028,Ira Jain,9,C,Math,75.4,64.9,78.7,96.2,4,2,5.4,3,2,3,4,0.3,1.0,0.1,Needs behavior coaching
+2025-11-01,S028,Ira Jain,9,C,Science,54.9,56.0,80.7,84.5,5,1,5.4,3,2,3,4,0.3,1.0,0.1,Needs behavior coaching
+2025-11-01,S028,Ira Jain,9,C,English,49.9,63.3,67.9,78.5,7,2,5.4,3,2,3,4,0.3,1.0,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S028,Ira Jain,9,C,Social Studies,64.9,67.2,84.4,90.8,9,5,5.4,3,2,3,4,0.3,1.0,0.1,Needs behavior coaching
+2025-11-01,S028,Ira Jain,9,C,Computer Science,76.7,74.2,82.9,88.2,10,0,5.4,3,2,3,4,0.3,1.0,0.1,Needs behavior coaching
+2025-11-01,S028,Ira Jain,9,C,Arts,39.4,56.1,69.8,88.5,7,4,5.4,3,2,3,4,0.3,1.0,0.1,Needs behavior coaching; Struggling with core concepts
+2025-11-01,S029,Mira Banerjee,8,B,Math,71.4,53.0,78.0,76.3,5,22,6.5,3,5,4,0,1.9,0.3,0.5,Active participant
+2025-11-01,S029,Mira Banerjee,8,B,Science,78.2,75.5,88.6,87.3,4,6,6.5,3,5,4,0,1.9,0.3,0.5,Active participant
+2025-11-01,S029,Mira Banerjee,8,B,English,67.6,71.1,82.0,94.5,3,42,6.5,3,5,4,0,1.9,0.3,0.5,Active participant
+2025-11-01,S029,Mira Banerjee,8,B,Social Studies,84.6,72.9,80.5,89.8,3,18,6.5,3,5,4,0,1.9,0.3,0.5,Active participant
+2025-11-01,S029,Mira Banerjee,8,B,Computer Science,79.7,76.9,85.8,100.0,2,12,6.5,3,5,4,0,1.9,0.3,0.5,Active participant
+2025-11-01,S029,Mira Banerjee,8,B,Arts,64.4,73.2,77.7,89.0,6,3,6.5,3,5,4,0,1.9,0.3,0.5,Active participant
+2025-11-01,S030,Kabir Bhatt,8,C,Math,46.3,55.7,93.6,87.4,7,10,1.2,4,2,3,3,1.5,1.1,0.3,Focused in class; Needs behavior coaching; Struggling with core concepts
+2025-11-01,S030,Kabir Bhatt,8,C,Science,45.6,64.3,62.4,94.3,4,2,1.2,4,2,3,3,1.5,1.1,0.3,Focused in class; Needs behavior coaching; Struggling with core concepts
+2025-11-01,S030,Kabir Bhatt,8,C,English,38.5,64.3,79.2,79.5,8,5,1.2,4,2,3,3,1.5,1.1,0.3,Focused in class; Needs behavior coaching; Struggling with core concepts
+2025-11-01,S030,Kabir Bhatt,8,C,Social Studies,50.0,47.9,78.7,78.1,4,7,1.2,4,2,3,3,1.5,1.1,0.3,Focused in class; Needs behavior coaching
+2025-11-01,S030,Kabir Bhatt,8,C,Computer Science,57.8,50.3,97.5,98.7,8,11,1.2,4,2,3,3,1.5,1.1,0.3,Focused in class; Needs behavior coaching
+2025-11-01,S030,Kabir Bhatt,8,C,Arts,69.1,59.9,88.1,93.2,5,12,1.2,4,2,3,3,1.5,1.1,0.3,Focused in class; Needs behavior coaching

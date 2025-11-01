@@ -1,0 +1,225 @@
+Reference - 1
+
+A Reference Architecture for Personalized Cognitive Education via Hierarchical Federated Learning
+
+Abstract:-
+In this paper, we propose a conceptual reference architecture specialized for multi-level personalized learning in digital education systems that utilizes hierarchical federated learning. The usage of different machine learning based models by educational institutions faces challenges due to the lack of sufficient training data, heterogeneous learner profiles, and strict privacy regulations. The proposed architecture addresses these by organizing the institutions into multiple hierarchical levels that leverage federated learning. The architecture also provides high availability and scalability, while still complying with stringent data-privacy requirements.
+
+Published in: 2025 IEEE 16th International Conference on Cognitive Infocommunications (CogInfoCom)
+Date of Conference: 08-09 September 2025
+Date Added to IEEE Xplore: 17 October 2025
+
+Authors:
+Balázs Kvancz
+Dept. of Automation and Applied Informatics, Budapest University of Technology and Economics, Budapest, Hungary
+Bertalan Forstner
+Dept. of Automation and Applied Informatics, Budapest University of Technology and Economics, Budapest, Hungary
+
+
+Reference - 2
+
+Personalized AI-Driven Online Education Technologies for Adaptive Learning and Cognitive Skill Enhancement
+
+Abstract:-
+Abstract:
+The integration of artificial intelligence (AI) in online education is transforming learning experiences through personalized adaptive technologies. This study evaluates AI-driven online education platforms designed to enhance cognitive skills and learning adaptability. By leveraging machine learning algorithms and natural language processing, these platforms tailor content delivery based on learner profiles, real-time performance, and engagement patterns. A mixed-methods approach was adopted, involving data collection from user interaction logs, AI-driven personalization through reinforcement learning, and an experimental study with 500 students. Participants were divided into AI-personalized and conventional online learning groups, with evaluations conducted using knowledge retention tests, engagement analytics, and cognitive skill assessments. The findings reveal that AI-personalized learning improved knowledge retention by 28% and engagement levels by 35%, compared to conventional e-learning. Cognitive skill enhancement, including problem-solving and critical thinking, increased by 24%, while learning adaptability improved by 40% due to AI’s dynamic content adjustments. Furthermore, 82% of students preferred AI-based adaptive learning over static online courses, highlighting its effectiveness in personalized education. These results emphasize the potential of AI-driven learning platforms in fostering individualized educational experiences and enhancing student outcomes. Future research will focus on refining AI models for greater adaptability and assessing their impact across diverse educational settings.
+
+Published in: 2025 7th International Conference on Signal Processing, Computing and Control (ISPCC)
+Date of Conference: 06-08 March 2025
+Date Added to IEEE Xplore: 24 June 2025
+
+Authors:-
+Kumaresan V
+Information Technology, V. S. B. Engineering College
+Jeyakarthic M
+Department of Computer and Information Science, Annamalai University, Tamilnadu, India
+Manjula Devi P
+Department of ISE, AMC Engineering College, Bangalore
+Jona Innisai Rani P
+Department of Agricultural Economics, Anbil Dharmalingam Agricultural College and Research Institute, Trichy
+Mohan E
+Department of ECE, SIMATS, Saveetha School of Engineering, Chennai
+Surendra K R
+Department of ECE, Sri Venkateswara College of Engineering, Tirupati
+
+
+Reference - 3
+
+Using Machine Learning to Predict Cognitive Impairment From Functional Assessments: A Study of 274 Stroke Patients
+
+Abstract:-
+
+Cognitive impairment, which commonly occurs after stroke, adversely impacts rehabilitation outcomes. The administration of traditional screening tools such as the Mini-Mental State Examination (MMSE) can be challenging for patients with communication or motor limitations. This study aimed to determine whether routinely collected functional assessments can effectively predict cognitive impairment in stroke patients undergoing robotic-assisted gait training with the Lokomat system. In this retrospective analysis, data from 274 stroke patients who received Lokomat-based rehabilitation were examined. Patients with complete data on the MMSE, Fugl-Meyer Assessment (FMA), Modified Barthel Index (MBI), and Timed Up and Go (TUG) test were included in the final analysis. Cognitive impairment was defined as an MMSE score <24. Five supervised machine learning models—logistic regression, decision tree, random forest, support vector machine (SVM), and XGBoost—were developed to classify cognitive status using FMA, MBI, and TUG as predictors. The performance of each model was assessed by the area under the curve (AUC), accuracy, sensitivity, and precision. Logistic regression demonstrated the highest predictive performance (AUC = 0.92, accuracy = 89.5%), followed by random forest (AUC = 0.88) and XGBoost (AUC = 0.87). FMA was identified as the most significant predictor in tree-based models. Patients classified as cognitively impaired exhibited significantly lower functional scores than their unimpaired counterparts (p <0.001). Functional assessments routinely performed during stroke rehabilitation can provide a practical and accurate method for identifying cognitive impairment, especially when cognitive screening is constrained. These results support the incorporation of machine learning–based tools into clinical decision-making during robotic rehabilitation.
+
+Published in: IEEE Access ( Volume: 13)
+Page(s): 159499 - 159504
+Date of Publication: 11 September 2025 
+DOI: 10.1109/ACCESS.2025.3607979
+Publisher: IEEE
+
+Authors:-
+Ilyoung Moon
+Department of Physical Therapy, Wonju Severance Christian Hospital, Wonju, Republic of Korea
+Chanhee Park
+Department of Physical Therapy, Jeonju University, Jeonju, Republic of Korea
+
+
+Reference - 4
+
+Wearable RF Sensing System with Edge AI Inference for In-vivo Cognitive Load Classification
+
+Abstract:-
+Cognitive load (CL) refers to the mental effort required to process information. Monitoring increased CL is important as it can indicate the onset of cognitive decline and neurodegeneration, allowing for early intervention and management. Traditional techniques using bio-physiological and audio-visual sensors are privacy-invasive and computationally complex. The synchronization, data alignment, and accessibility problems with these techniques can lead to increased noise and errors, reducing the accuracy of CL estimates. This paper presents a first-of-its-kind Radio Frequency (RF) based sensing system that effectively monitors and classifies cognitive load states by detecting cerebral blood flow variations through backscattered RF signal strength. The RF sensors are designed and miniaturized using microwave computational software and fabricated sensors are integrated with glasses to estimate in-vivo CL variations with on-edge processing and classification. The system is validated through user-oriented audio-only (AO) and audio-visual (AV) trials. Participants are tested on their ability to comprehend target speech with different levels of background noise, assessing the impact on CL. The statistical features from the RF reflection data are processed using machine learning (ML) and deep learning (DL) algorithms implemented on a Raspberry Pi. The participants’ CL is classified into high, medium and low categories separately for AO and AV trials. The Multilayer Perceptron (MLP) achieves an overall accuracy of 85% for AO trials and 66.2% for AV trials, with average training and testing times of 6 seconds and 0.001 seconds, respectively. The promising results suggest that the system is an effective, portable, and low-cost alternative for on-edge CL estimation.
+
+Published in: 2025 IEEE International Symposium on Circuits and Systems (ISCAS)
+Date of Conference: 25-28 May 2025
+Date Added to IEEE Xplore: 27 June 2025
+DOI: 10.1109/ISCAS56072.2025.11043917
+Publisher: IEEE
+Conference Location: London, United Kingdom
+
+Author:-
+Usman Anwar
+School of Engineering, University of Edinburgh, Edinburgh, United Kingdom
+Yinhuan Dong
+School of Engineering, University of Edinburgh, Edinburgh, United Kingdom
+Tughrul Arslan
+School of Engineering, University of Edinburgh, Edinburgh, United Kingdom
+Amir Hussain
+School of Computing, Engineering and the Built Environment, Edinburgh Napier University, Edinburgh, United Kingdom
+Peter Lomax
+School of Engineering, University of Edinburgh, Edinburgh, United Kingdom
+
+
+Reference - 5
+
+The Application and Development of Machine Learning in the Assessment of Cognitive Abilities in Preschool Children
+
+Abstract:-
+The cognitive ability of preschool children is a key factor affecting their subsequent learning and development. Machine learning technology analyzes large amounts of data, identifies potential patterns and characteristics of children's cognitive ability, and provides more objective and accurate assessment results. This article aims to explore the application of machine learning in the assessment of cognitive abilities in preschool children, and summarize the following key findings from data collection, feature extraction, model construction, and interpretation of assessment results: 1. Machine learning algorithms can significantly improve the accuracy of assessments. 2. Machine learning methods perform well in feature selection, further improving the reliability and effectiveness of the model. 3. Machine learning can effectively integrate data from different sources, enabling educators to gain a deeper understanding of children's cognitive development processes.
+
+Published in: 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+Date of Conference: 18-20 April 2025
+Date Added to IEEE Xplore: 29 July 2025
+DOI: 10.1109/CSTE64638.2025.11092167
+Publisher: IEEE
+Conference Location: Wuhan, China
+
+Authors:-
+Hongyu Liu
+School of Education, Shanghai Normal University Tianhua College, Shanghai, China
+
+reference - 6
+
+Beyond Visuals and Audio: The Role of Olfactory Feedback in Enhancing Immersive Learning Experiences and Reducing Cognitive Load
+
+Abstract:-
+Immersive virtual reality (IVR) technology has shown its potential in education. Nonetheless, previous IVR applications have primarily focused on visual and auditory simulations, neglecting olfaction, which has limited the authenticity of the experience. Therefore, we conducted an experimental study with 64 students to investigate the effects of adding olfactory feedback to IVR on fire safety learning. The results showed that olfactory feedback significantly reduced cognitive load, elicited high-arousal positive emotions, and enhanced presence. However, it had no significant effect on learning performance. These findings have important theoretical and practical implications for the integration of multisensory stimulation with virtual environments.
+
+Published in: 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+Date of Conference: 18-20 April 2025
+Date Added to IEEE Xplore: 29 July 2025
+DOI: 10.1109/CSTE64638.2025.11091955
+Publisher: IEEE
+Conference Location: Wuhan, China
+
+Authors
+Tingxuan Gu
+Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China
+Wenhao Li
+Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China
+Li Qian
+Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China
+
+
+reference - 7
+
+The Impact of Data-Driven Feedback on Programming Learning: A Cognitive Load Perspective
+
+Abstract:
+Data-driven feedback is considered an effective technique to support teaching introductory programming. However, variations in students’ cognitive load may affect its effectiveness. This study examined the impact of data-driven feedback on middle school students’ learning performance in an introductory Python programming course, framed within the context of cognitive load theory. The findings revealed that students in the low cognitive load group achieved higher programming scores than those in the medium and high cognitive load groups. Moreover, the medium cognitive load group achieved the highest code Improvement Rate. Finally, students’ evaluation of feedback emerged as a key determinant of programming success.
+
+Published in: 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+Date of Conference: 18-20 April 2025
+Date Added to IEEE Xplore: 29 July 2025
+DOI: 10.1109/CSTE64638.2025.11092261
+Publisher: IEEE
+Conference Location: Wuhan, China
+
+Authors
+Meishan Liu
+Department of Educational Technology, Jiangnan University, Wuxi, China
+Liye Zhu
+Department of Educational Technology, Jiangnan University, Wuxi, China
+Jinming Wang
+Department of Educational Technology, Jiangnan University, Wuxi, China
+Yizhou Qian
+Department of Educational Technology, Jiangnan University, Wuxi, China
+
+
+reference - 8
+
+Development of an e-learning Platform with Live Doubt Resolution and Game-Based Learning Instructions
+
+Abstract:
+The proposed paper aims to develop an innovative e-learning platform that seamlessly integrates live doubt resolution and instructional support for mind games, focusing on enhancing cognitive skills alongside traditional learning outcomes. This platform will be equipped with a user-friendly, intuitive interface that enables students to participate in realtime doubt clarification through chat or video sessions, whether during live classes or self-paced learning modules. By providing immediate access to instructor support, the platform addresses common learning barriers, allowing students to overcome challenges as they arise and deepen their understanding of subject matter in a timely and efficient manner. In addition to standard educational materials, the platform will introduce a unique set of mind games designed with structured instructions to promote cognitive skill development. These mind games aim to enhance critical thinking, problem-solving abilities, and memory skills, offering a multidimensional approach to learning that goes beyond conventional academic instruction. By incorporating these games as an integral part of the learning experience, the platform provides an engaging, brainstimulating environment that benefits students academically and cognitively, making learning both productive and enjoyable. A robust course management system will further support educators, offering tools to streamline lesson organization, content creation, and distribution. Teachers will be able to track each student’s progress in real time, utilizing performance tracking to gain insights into individual learning patterns, strengths, and areas for improvement. This feedback loop empowers educators to personalize instruction, ensuring that the curriculum is responsive to each student’s specific needs, pace, and preferences. The platform’s adaptive learning algorithms will also dynamically adjust content difficulty and focus based on individual student performance, creating a customized learning experience that aligns with each learner’s skill level and promotes continuous improvement.
+
+Published in: 2025 6th International Conference on Recent Advances in Information Technology (RAIT)
+Date of Conference: 06-08 March 2025
+Date Added to IEEE Xplore: 30 July 2025
+DOI: 10.1109/RAIT65068.2025.11089415
+Publisher: IEEE
+Conference Location: Dhanbad, India
+
+Authors:-
+Swathi Amancha
+CSE, QISCET, Ongole
+T Sunitha
+IT, QISCET, Ongole
+P. Venkatesh
+CSE, QISCET, Ongole
+R.Venkata Siva
+CSE, QISCET, Ongole
+
+
+reference - 9
+
+Bridging the Gap: Cognitive Science Perspectives and Artificial Intelligence for Prediction and Detection of Specific Learning Disabilities
+
+Abstract:
+Specific learning disabilities are complex neurodevelopmental disorders that significantly impact an individual’s academic achievements, social interactions, and overall well-being. Both cognitive science and technological developments geared toward artificial intelligence have helped us better understand and serve people with specific learning disabilities. This review article examines cognitive science and artificial intelligence studies, focusing on predicting and detecting the most prevalent specific learning disabilities, namely dyslexia, dysgraphia, and dyscalculia in children. It aims to establish a correlation between cognitive research and artificial intelligence techniques that can benefit the affected population. Understanding both domains enables the development of more effective artificial intelligence technologies grounded in cognitive science principles. Artificial intelligence can revolutionize early prediction, detection, and interventions for specific learning disabilities. The success of this effort lies in the collaboration among data scientists, clinicians, and domain experts.
+
+Published in: IEEE Transactions on Cognitive and Developmental Systems ( Volume: 17, Issue: 4, August 2025)
+Page(s): 711 - 726
+Date of Publication: 21 April 2025
+DOI: 10.1109/TCDS.2025.3562665
+Publisher: IEEE
+
+Authors:-
+Subha Sreekumar
+National Institute of Technology Calicut, Kerala, India
+Lijiya A
+National Institute of Technology Calicut, Kerala, India
+Rajith K Ravindren
+Institute of Mental Health and Neurosciences (IMHANS), Kerala, India
+
+Reference - 10
+
+A Reference Architecture for Personalized Cognitive Education via Hierarchical Federated Learning
+
+Abstract:
+In this paper, we propose a conceptual reference architecture specialized for multi-level personalized learning in digital education systems that utilizes hierarchical federated learning. The usage of different machine learning based models by educational institutions faces challenges due to the lack of sufficient training data, heterogeneous learner profiles, and strict privacy regulations. The proposed architecture addresses these by organizing the institutions into multiple hierarchical levels that leverage federated learning. The architecture also provides high availability and scalability, while still complying with stringent data-privacy requirements.
+
+Published in: 2025 IEEE 16th International Conference on Cognitive Infocommunications (CogInfoCom)
+Date of Conference: 08-09 September 2025
+Date Added to IEEE Xplore: 17 October 2025
+DOI: 10.1109/CogInfoCom66819.2025.11200729
+Publisher: IEEE
+Conference Location: Wien, Austria
+
+Authors:-
+Balázs Kvancz
+Dept. of Automation and Applied Informatics, Budapest University of Technology and Economics, Budapest, Hungary
+Bertalan Forstner
+Dept. of Automation and Applied Informatics, Budapest University of Technology and Economics, Budapest, Hungary
+
