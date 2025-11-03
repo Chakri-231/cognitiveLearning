@@ -223,3 +223,122 @@ Dept. of Automation and Applied Informatics, Budapest University of Technology a
 Bertalan Forstner
 Dept. of Automation and Applied Informatics, Budapest University of Technology and Economics, Budapest, Hungary
 
+
+
+Reference - 11
+
+Cognitive Computing in English Language Classrooms
+
+Abstract:
+A paradigm shift has occurred in the field of English language instruction with the advent of cognitive and machine learning technologies. This study delves into how cognitive science and machine learning come together to create cutting-edge software and language-learning tools for English language courses. It explores the theoretical underpinnings of language learning cognition, surveys the state-of-the-art machine learning tools used in language education, and then looks at how these tools are put to use in language classrooms and on language learning software.
+
+Published in: 2024 IEEE 6th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)
+Date of Conference: 19-20 October 2024
+Date Added to IEEE Xplore: 11 February 2025
+DOI: 10.1109/ICCCMLA63077.2024.10871285
+Publisher: IEEE
+Conference Location: Hamburg, Germany
+
+Authors
+Iliyas Ali Shaik
+School of Technology, The Apollo University, Chittoor, India
+Ansar Hussain Shaik
+Department of Humanities & Sciences, Annamacharya University, Rajampeta, India
+P Athahar
+Department of English & Foreign Languages, Madanapalle Institute of Technology and Sciences, Madanapalle, India
+B Rasheeda Begum
+Department of Humanities and Science, KSRMCE, Kadapa, Andhra Pradesh, India
+
+Reference - 12
+
+The Classification of Human and Cognitive Architecture Time Estimation Using Machine Learning Methods
+
+Abstract:
+Time perception which plays an important role in daily life, is a critical concept affecting a wide range of disciplines. Time perception is crucial in both computer science and cognitive psychology as it informs the design of human-centered systems and technologies, while also deepening our understanding of cognitive processes and individual differences in how humans experience and process time. Cognitive architectures that model human cognitive functions provide valuable insights into the mechanisms underlying time perception. It is assumed that cognitive architectures are effective in explaining the cognitive processes involved in perceiving and interpreting time. In this study, the data obtained by applying a designed time perception experiment to human participants and a cognitive architecture were classified with machine learning algorithms which are K-Nearest Neighbor, Naive Bayes, Decision Tree, Support Vector Machine, Random Forest. According to the classification results, the Random Forest classifier was the most successful algorithm to classify the Human and Model classes with an accuracy rate of 82.06%.
+
+Published in: 2024 9th International Conference on Computer Science and Engineering (UBMK)
+Date of Conference: 26-28 October 2024
+Date Added to IEEE Xplore: 11 December 2024
+DOI: 10.1109/UBMK63289.2024.10773547
+Publisher: IEEE
+Conference Location: Antalya, Turkiye
+
+Authors
+Behiye Şahin
+Department of Psychology, Toros University, Mersin, Türkiye
+Sonay Duman
+Department of Software, Engineering Toros University, Mersin, Türkiye
+
+reference - 13
+
+Cognitive Analytics in Continual Learning
+
+Abstract:
+Summary The cognitive system that started with automation has now set its benchmark to reach human‐centric intelligence. The slow adoption of cognitive systems is most likely due to its meticulous training process. With cognitive computing as its backbone nowadays, any data can be converted into an asset anytime and anywhere. The complexity of data and its abandonment nature demand the coexistence of many technologies to provide deep insights in a domain. A generic artificial intelligence system built on deep learning and natural language processing evolves into a personalized business partner and a life companion that continuously learns. Combining tremendous power, humanity's relationship with technology has undergone incredible shifts. The adaptation and embracement have led to a higher level of intelligence augmentation, mainly in decision support and engagement systems, penetrating its need in various fields, especially in the healthcare industry, business‐to‐business, industrial marketing, autonomous driving, financial services, manufacturing sectors, and as a human assistant in day‐to‐day activities. The expensive and complex process of using cognitive systems to get complete resolutions for specific business segments on historical static data and dynamic real‐time data should be addressed with Hadoop, Spark, NoSQL, and other technologies that are part of cognitive systems besides NLP, AI, and ML. This chapter begins with an understanding of different analytics and the need of the hour, then gradually penetrates to give insights into cognitive systems, design principles, and key characteristics of the system, dwelling in the backbone of cognitive systems and its different learning approaches with some prominent use cases.
+
+Page(s): 1 - 28
+Copyright Year: 2024
+DOI: 10.1002/9781394214068.ch1
+Publisher: Wiley Semiconductors
+
+Authors
+T. Renuga Devi
+School of Computing, SASTRA Deemed University, Thanjavur, India
+K. Muthukumar
+School of Electrical & Electronics Engineering, SASTRA Deemed University, Thanjavur, India
+M. Sujatha
+School of Computing, SASTRA Deemed University, Thanjavur, India
+R. Ezhilarasie
+School of Computing, SASTRA Deemed University, Thanjavur, India
+
+
+reference - 14
+
+Cross-Disciplinary Cognitive Diagnosis Leveraging Deep Transfer Learning for Smart Education
+
+Abstract:
+Driven by the dual principles of smart education and artificial intelligence technology, the online education model has rapidly emerged as an important component of the education industry. Cognitive diagnostic technology can utilize students’ learning data and feedback information in educational evaluation to accurately assess their ability level at the knowledge level. However, while massive amounts of information provide abundant data resources, they also bring about complexity in feature extraction and scarcity of disciplinary data. In cross-disciplinary fields, traditional cognitive diagnostic methods still face many challenges. Given the differences in knowledge systems, cognitive structures, and data characteristics between different disciplines, this paper conducts in-depth research on neural network cognitive diagnosis and knowledge association neural network cognitive diagnosis, and proposes an innovative cross-disciplinary cognitive diagnosis method. This method combines deep learning techniques and transfer learning strategies to enhance the performance of the model in the target discipline by utilizing the common features of the main discipline. The experimental results show that the cross-disciplinary cognitive diagnosis model based on deep learning performs better than the basic model in cross-disciplinary cognitive diagnosis tasks, and can more accurately evaluate students’ learning situation.
+
+Published in: 2024 International Conference on Intelligent Education and Intelligent Research (IEIR)
+Date of Conference: 06-08 November 2024
+Date Added to IEEE Xplore: 14 April 2025
+DOI: 10.1109/IEIR62538.2024.10959920
+Publisher: IEEE
+Conference Location: Macau, China
+
+Authors
+Zhifeng Wang
+CCNU Wollongong Joint Institute, Central China Normal University, Wuhan, China
+Meixin Su
+Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China
+Yang Yang
+CCNU Wollongong Joint Institute, Central China Normal University, Wuhan, China
+Chunyan Zeng
+School of Electrical and Electronic Engineering, Hubei University of Technology, Wuhan, China
+Lizhi Ye
+Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China
+
+
+reference - 15
+
+Abstract:
+Objective cognitive assessment is critical for the early detection and management of cognitive decline. The Mini-Mental State Examination (MMSE) is a widely used tool for this purpose, but it requires face-to-face interaction and manual scoring by clinicians. Recent advances in computer vision and deep learning offer the potential to automate and enhance the accuracy of such assessments. This study presents a novel deep learning model that integrates multimodal data captured during cognitive testing sessions on a tablet. By focusing on facial movements, which are captured and magnified through a pre-processing pipeline, the model classifies inputs into categories corresponding to MMSE scores. Our results show a significant correlation between facial movements and MMSE, suggesting the feasibility of using automated video analysis as a reliable proxy for cognitive assessment.
+
+Published in: 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Date of Conference: 15-19 July 2024
+Date Added to IEEE Xplore: 17 December 2024
+DOI: 10.1109/EMBC53108.2024.10782235
+Publisher: IEEE
+Conference Location: Orlando, FL, USA
+
+Authors
+Raffaele Mineo
+University of Catania, Italy
+Federica Proietto Salanitri
+University of Catania, Italy
+Lisa Passarello
+University of Catania, Italy
+Alberto Sardella
+University of Catania, Italy
+
+
